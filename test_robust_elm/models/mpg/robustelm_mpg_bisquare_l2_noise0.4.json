@@ -1,0 +1,17 @@
+{
+	"loss_type": "bisquare",
+	"regu_type": "l2",
+	"inv_type": "inv",
+	"seed": 0,
+	"metric_type": {
+		"name": "rmse"
+	},
+	"elm_type": "regression",
+	"act_func": "sig",
+	"plot": 0,
+	"verbose": 0,
+	"Max_iters": 20,
+	"Nh_nodes": 200,
+	"c_rho": 2,
+	"tune_relative": 1
+}

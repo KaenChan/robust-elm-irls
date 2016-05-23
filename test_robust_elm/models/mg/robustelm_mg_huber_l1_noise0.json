@@ -1,0 +1,20 @@
+{
+	"loss_type": "huber",
+	"regu_type": "l1",
+	"inv_type": "inv",
+	"seed": 0,
+	"metric_type": {
+		"name": "rmse"
+	},
+	"elm_type": "regression",
+	"act_func": "sig",
+	"plot": 0,
+	"verbose": 0,
+	"Max_iters": 20,
+	"Nh_nodes": 1000,
+	"c_rho": 8,
+	"tune_relative": 1,
+	"dataset": "mg",
+	"trainsize": [831,6],
+	"testsize": [554,6]
+}

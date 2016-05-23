@@ -1,0 +1,22 @@
+{
+	"loss_type": "huber",
+	"regu_type": "none",
+	"inv_type": "svd",
+	"seed": 0,
+	"metric_type": {
+		"name": "rmse"
+	},
+	"elm_type": "regression",
+	"act_func": "sig",
+	"plot": 0,
+	"verbose": 1,
+	"Max_iters": 20,
+	"Nh_nodes": 1000,
+	"c_rho": 0,
+	"tune_relative": 2,
+	"dataset": "cadata",
+	"trainsize": [12384,8],
+	"testsize": [8256,8],
+	"X_test": null,
+	"Y_test": null
+}

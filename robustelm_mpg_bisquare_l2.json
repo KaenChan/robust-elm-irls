@@ -1,0 +1,13 @@
+{
+	"dataset": "mpg",
+	"trainsize": [235,7],
+	"testsize": [157,7],
+	"TestEVALs": [0,0,2.760197634],
+	"TrainTimes": [0,0,0.388098254],
+	"sparserate": [0,0,0.38],
+	"MeanTest": 0.9200658781,
+	"StdTest": 1.593600847,
+	"MeanTrainTime": 0.1293660847,
+	"StdTrainTime": 0.2240686314,
+	"tex": "0.9201$\\pm$1.594 & "
+}

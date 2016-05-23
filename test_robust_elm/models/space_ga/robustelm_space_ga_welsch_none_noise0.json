@@ -1,0 +1,19 @@
+{
+	"loss_type": "welsch",
+	"regu_type": "none",
+	"inv_type": "svd",
+	"seed": 0,
+	"metric_type": {
+		"name": "rmse"
+	},
+	"elm_type": "regression",
+	"act_func": "sig",
+	"plot": 0,
+	"verbose": 1,
+	"Max_iters": 20,
+	"Nh_nodes": 100,
+	"c_rho": 0,
+	"tune_relative": 2,
+	"X_test": null,
+	"Y_test": null
+}

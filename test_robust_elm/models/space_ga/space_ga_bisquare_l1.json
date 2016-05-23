@@ -1,0 +1,16 @@
+{
+	"Nh_nodes": 1000,
+	"loss_type": "bisquare",
+	"regu_type": "l1",
+	"c_rho": 8,
+	"stop_delta": 0.1,
+	"seed": 0,
+	"Max_iters": 20,
+	"inv_type": "svd",
+	"metric_type": {
+		"name": "rmse"
+	},
+	"alpha": 0.95,
+	"tune": 4.685,
+	"datafile": "data_space_ga_noise20"
+}

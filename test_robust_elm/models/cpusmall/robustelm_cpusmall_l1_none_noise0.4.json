@@ -1,0 +1,20 @@
+{
+	"loss_type": "l1",
+	"regu_type": "none",
+	"inv_type": "inv",
+	"seed": 0,
+	"metric_type": {
+		"name": "rmse"
+	},
+	"elm_type": "regression",
+	"act_func": "sig",
+	"plot": 0,
+	"verbose": 0,
+	"Max_iters": 20,
+	"Nh_nodes": 50,
+	"c_rho": 0,
+	"tune_relative": 1,
+	"dataset": "cpusmall",
+	"trainsize": [4915,12],
+	"testsize": [3277,12]
+}

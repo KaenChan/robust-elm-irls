@@ -1,0 +1,20 @@
+{
+	"loss_type": "bisquare",
+	"regu_type": "l2",
+	"inv_type": "inv",
+	"seed": 0,
+	"metric_type": {
+		"name": "rmse"
+	},
+	"elm_type": "regression",
+	"act_func": "sig",
+	"plot": 0,
+	"verbose": 0,
+	"Max_iters": 20,
+	"Nh_nodes": 1000,
+	"c_rho": 6,
+	"tune_relative": 1,
+	"dataset": "cpusmall",
+	"trainsize": [4915,12],
+	"testsize": [3277,12]
+}
