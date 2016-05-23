@@ -19,9 +19,9 @@ Regularization:
 ```
 >> addpath(genpath('.'))
 >> test_robust_elm_sinc.m
-https://github.com/KaenChan/robust-elm-irls
-<img src="https://github.com/KaenChan/robust-elm-irls/test_robust_elm/sinc_result.png" height="300" width="400" >
+<img src="https://github.com/KaenChan/robust-elm-irls/blob/master/test_robust_elm/sinc_result.jpg" height="300" width="400" >
 ```
+<img src="https://github.com/KaenChan/robust-elm-irls/blob/master/test_robust_elm/sinc_result.jpg" height="300" width="400" >
 
 
 ```
