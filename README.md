@@ -4,14 +4,14 @@ robust-elm-irls
 Robust-elm-irls is the robust regularized Extreme Learning Machine for regression using Iteratively Reweighted Least Squares (IRLS).
 
 Robust loss function:
-- $\ell_1$-norm loss function
+- L1-norm loss function
 - Huber loss function
 - Bisquare loss function
 - Welsch loss function
 
 Regularization:
-- $\ell_2$-norm regularization
-- $\ell_1$-norm regularization
+- L2-norm regularization
+- L1-norm regularization
 
 ## Demo
 
@@ -19,7 +19,6 @@ Regularization:
 ```
 >> addpath(genpath('.'))
 >> test_robust_elm_sinc.m
-<img src="https://github.com/KaenChan/robust-elm-irls/blob/master/test_robust_elm/sinc_result.jpg" height="300" width="400" >
 ```
 <img src="https://github.com/KaenChan/robust-elm-irls/blob/master/test_robust_elm/sinc_result.jpg" height="300" width="400" >
 
