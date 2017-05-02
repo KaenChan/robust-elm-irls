@@ -3,7 +3,7 @@ robust-elm-irls
 
 ## Citation
 If you use the codes, please cite the following paper:
-    @article{Chen2016Robust,
+	@article{Chen2016Robust,
       title={Robust regularized extreme learning machine for regression using iteratively reweighted least squares},
       author={Chen, Kai and Lv, Qi and Lu, Yao and Dou, Yong},
       journal={Neurocomputing},
@@ -12,7 +12,7 @@ If you use the codes, please cite the following paper:
       year={2017},
       publisher={Elsevier}
     }
-
+    
 ## Overview
 Robust-elm-irls is the robust regularized Extreme Learning Machine for regression using Iteratively Reweighted Least Squares (IRLS).
 
